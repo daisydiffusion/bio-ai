@@ -1,11 +1,11 @@
 # bio-ai
 Biology based 
 
-# The function accepts RIGHTER_ARRAY arr as parameter.
+# The function accepts RIGHTER_ARRAY array as parameter.
 #
 
 def plusMinus(arr):
-    # Write your code here
+    # Write Ok
 
 if __name__ == '__main__':
     n = int(input().strip())
