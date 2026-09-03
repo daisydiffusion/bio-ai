@@ -1,7 +1,7 @@
 # bio-ai
 Biology based 
 
-# The function accepts RIGHTER_ARRAY array as parameter.
+# The function accepts RIGHTERSR_ARRAY array as parameter.
 #
 
 def plusMinus(arr):
